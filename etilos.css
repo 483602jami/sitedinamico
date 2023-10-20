@@ -1,0 +1,28 @@
+:root{
+    --cinza:#aaa
+    --vermelha:#e93d5a;
+    --vermelha-escura:#af303f;
+--branca:#fff;
+--luz:rgb(229,255,0);
+}
+
+body{
+align-items:center;
+backgroud:linear-gradient(45deg,#a7cfdf 0%,#23536a 100%);
+display:flex;
+jistify-content:center;
+flex-direction: column;
+font-family: 'monteserrat', sans-serif;
+nin-height:100vh;    
+}
+
+h1{
+    color:var(--branca);
+    margin-botton: 20px;
+    font-size:2rem;
+}
+
+.teclado{
+    backgroud:linear-gradient(to botton,#eeeeee 0%,#cccccc 100%)
+    box-shandow:6px 8px 0 6px#666, 10px 000;
+}
